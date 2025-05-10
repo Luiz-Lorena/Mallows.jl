@@ -1,0 +1,13 @@
+name = "Mallows"
+uuid = "c3bc81a6-a1be-432e-8b22-59200056303d"
+authors = ["Luiz H N Lorena <luiz-lorena@hotmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
