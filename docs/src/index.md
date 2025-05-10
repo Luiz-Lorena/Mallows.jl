@@ -77,11 +77,11 @@ If you find Mallows.jl useful in your work, we kindly request that you cite the
 following paper ([preprint](https://arxiv.org/abs/2206.03866)):
 
 ```bibtex
-@article{Lubin2023,
-    author = {Miles Lubin and Oscar Dowson and Joaquim {Dias Garcia} and Joey Huchette and Beno{\^i}t Legat and Juan Pablo Vielma},
-    title = {{JuMP} 1.0: {R}ecent improvements to a modeling language for mathematical optimization},
+@article{Lubin2025,
+    author = {Luiz Henrique Nogueira Lorena and Luiz Antonio Nogueira Lorena and Antonio Augusto Chaves},
+    title = {Maximal Covering Location Problem with Location Preferences},
     journal = {Mathematical Programming Computation},
-    year = {2023},
+    year = {2025},
     doi = {10.1007/s12532-023-00239-3}
 }
 ```
