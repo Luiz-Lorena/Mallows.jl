@@ -21,4 +21,5 @@ makedocs(;
 deploydocs(;
     repo="github.com/Luiz-Lorena/Mallows.jl",
     devbranch="master",
+    versions = ["stable" => "v^", "v#.#.#", "dev" => "master"],
 )
