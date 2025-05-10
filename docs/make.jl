@@ -8,7 +8,7 @@ makedocs(;
     authors="Luiz H N Lorena <luiz-lorena@hotmail.com> and contributors",
     sitename="Mallows.jl",
     format=Documenter.HTML(;
-        canonical="https://Luiz-Lorena.github.io/Mallows.jl",
+        canonical="https://luiz-lorena.github.io/Mallows.jl",
         edit_link="master",
         assets=String[],
     ),
