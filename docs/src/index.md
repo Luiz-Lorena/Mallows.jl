@@ -62,10 +62,9 @@ using Mallows, Random
 
 Random.seed!(42)
 
-n = 5
-phi = 0.5
 sigma0 = [1, 2, 3, 4, 5]
-sampled_permutation, kendall_distance = sample_mallows_kendall_tau(n, phi, sigma0)
+phi = 0.5
+sampled_permutation, kendall_distance = sample_mallows(sigma0, phi)
 
 println("Sampled permutation: $sampled_permutation | Distance: $kendall_distance")
 ```
@@ -75,10 +74,9 @@ using Mallows, Random
 
 Random.seed!(42)
 
-n = 5
-phi = 0.5
 sigma0 = [1, 2, 3, 4, 5]
-sampled_permutation, kendall_distance = sample_mallows_kendall_tau(n, phi, sigma0)
+phi = 0.5
+sampled_permutation, kendall_distance = sample_mallows(sigma0, phi)
 
 println("Sampled permutation: $sampled_permutation | Distance: $kendall_distance")
 
