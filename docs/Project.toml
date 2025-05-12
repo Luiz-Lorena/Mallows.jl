@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Mallows = "2bbb2f52-5e16-43fb-828b-f0eddea539fa"
