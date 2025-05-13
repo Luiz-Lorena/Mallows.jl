@@ -72,7 +72,7 @@ julia> import Pkg; Pkg.add("https://github.com/Luiz-Lorena/Mallows.jl")
 
 ## Usage
 
-```jldoctest
+```julia
 using Mallows, Random
 
 Random.seed!(42)
