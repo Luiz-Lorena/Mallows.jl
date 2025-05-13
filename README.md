@@ -21,6 +21,8 @@
   *Sampling from Mallows Distribution in Julia.*
 </div>
 
+&nbsp;
+
 <div align="center">
 
 <!-- Markdown table inside HTML wrapper -->
