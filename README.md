@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  *Sampling from Mallows Distribution in Julia.*
+  *Sampling from a Mallows Distribution in Julia.*
 </div>
 
 <br>
@@ -80,7 +80,7 @@ Output:
 Sampled permutation: [1, 2, 3, 5, 4] | Distance: 1
 ```
 
-For the theory behind Mallows Distribution please follow the documentation link.
+For the theory behind sampling from a Mallows Distribution please follow the documentation link.
 
 <!--
 ## Citing Mallows.jl
