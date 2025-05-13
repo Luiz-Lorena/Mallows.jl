@@ -1,4 +1,11 @@
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo-dark.svg">
+  <img alt="Mallows.jl logo." src="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg" height="100">
+</picture>
+
+
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/blob/master/docs/src/assets/logo.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/blob/master/docs/src/assets/logo-dark.svg">
   <img alt="Mallows.jl logo." src="https://github.com/Luiz-Lorena/Mallows.jl/blob/master/docs/src/assets/logo.svg" style="height: 50%; width: auto;">
