@@ -1,13 +1,3 @@
-<!--<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo-dark.svg">
-  <img alt="Mallows.jl logo." src="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg" height="150">
-</picture>
-</div>
-
----
--->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg">
@@ -90,6 +80,7 @@ Output:
 Sampled permutation: [1, 2, 3, 5, 4] | Distance: 1
 ```
 
+<!--
 ## Citing Mallows.jl
 
 If you find Mallows.jl useful in your work, we kindly request that you cite the
@@ -106,3 +97,4 @@ following paper:
     doi = {10.1007/s12532-023-00239-3}
 }
 ```
+-->
