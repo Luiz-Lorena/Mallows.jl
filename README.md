@@ -82,9 +82,11 @@ phi = 0.5
 sampled_permutation, kendall_distance = sample_mallows(sigma0, phi)
 
 println("Sampled permutation: $sampled_permutation | Distance: $kendall_distance")
+```
 
-# output
+Output:
 
+```
 Sampled permutation: [1, 2, 3, 5, 4] | Distance: 1
 ```
 
