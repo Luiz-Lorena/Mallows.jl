@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/luiz-lorena/Mallows.jl",
+    repo="github.com/Luiz-Lorena/Mallows.jl",
     devbranch="master",
 )
