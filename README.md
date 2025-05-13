@@ -21,7 +21,7 @@
   *Sampling from Mallows Distribution in Julia.*
 </div>
 
-&nbsp;
+<br>
 
 <div align="center">
 
