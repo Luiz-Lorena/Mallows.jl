@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo-dark.svg">
   <img alt="Mallows.jl logo." src="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg" height="150">
 </picture>
-<\div>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luiz-Lorena/Mallows.jl/blob/master/docs/src/assets/logo.svg">
