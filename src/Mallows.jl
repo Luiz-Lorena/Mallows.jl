@@ -10,8 +10,8 @@ module Mallows
     Samples a permutation from the Mallows model with Kendall's tau distance,
     and also returns the Kendall's tau distance between the sampled permutation and sigma0.
     Parameters:
-    - `phi`: The dispersion parameter (0.0 < phi <= 1.0).
     - `sigma0`: The central permutation.
+    - `phi`: The dispersion parameter (0.0 < phi <= 1.0).
     Returns:
     - `Tuple{Vector{Int}, Int}`:
         - The sampled permutation `sigma`.
