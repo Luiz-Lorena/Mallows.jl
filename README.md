@@ -17,8 +17,6 @@
   <h1>Mallows</h1>
 </div>
 
-# Mallows
-
 *Sampling from Mallows Distribution in Julia.*
 
 | **Documentation**                                                               | **Build Status**                                                                                |
