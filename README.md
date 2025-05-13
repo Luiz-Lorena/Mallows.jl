@@ -80,6 +80,8 @@ Output:
 Sampled permutation: [1, 2, 3, 5, 4] | Distance: 1
 ```
 
+For the theory behind Mallows Distribution please follow the documentation link.
+
 <!--
 ## Citing Mallows.jl
 
