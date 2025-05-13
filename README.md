@@ -8,3 +8,6 @@
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://luiz-lorena.github.io/Mallows.jl/dev/) |
 [![Build Status](https://github.com/luiz-lorena/Mallows.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/luiz-lorena/Mallows.jl/actions/workflows/CI.yml?query=branch%3Amaster) |
 
+| **Documentation**                                                               | **Build Status**                                                                                |
+|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![][GHA-img]][GHA-url] |
