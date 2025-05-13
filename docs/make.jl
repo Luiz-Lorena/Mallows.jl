@@ -20,5 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/luiz-lorena/Mallows.jl",
-    devbranch="gh-pages",
+    devbranch="master",
 )
