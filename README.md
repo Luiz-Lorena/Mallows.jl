@@ -15,6 +15,7 @@
   <img alt="Mallows.jl logo." src="https://github.com/Luiz-Lorena/Mallows.jl/raw/master/docs/src/assets/logo.svg" height="150">
 </picture>
   <h1>Mallows</h1>
+   *Sampling from Mallows Distribution in Julia.*
 </div>
 
 <div align="center">
