@@ -22,10 +22,40 @@
 </div>
 
 <div align="center">
+
+<!-- Markdown table inside HTML wrapper -->
+  
+<table>
+  <thead>
+    <tr>
+      <th>Documentation</th>
+      <th>Build Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://luiz-lorena.github.io/Mallows.jl/stable/">
+          <img src="https://img.shields.io/badge/docs-stable-blue.svg">
+        </a>
+        <a href="https://luiz-lorena.github.io/Mallows.jl/dev/">
+          <img src="https://img.shields.io/badge/docs-dev-blue.svg">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/luiz-lorena/Mallows.jl/actions/workflows/CI.yml?query=branch%3Amaster">
+          <img src="https://github.com/luiz-lorena/Mallows.jl/actions/workflows/CI.yml/badge.svg?branch=master">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 | **Documentation**                                                               | **Build Status**                                                                                |
 |:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
 | [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://luiz-lorena.github.io/Mallows.jl/stable/) [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://luiz-lorena.github.io/Mallows.jl/dev/) | [![Build Status](https://github.com/luiz-lorena/Mallows.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/luiz-lorena/Mallows.jl/actions/workflows/CI.yml?query=branch%3Amaster) |
-</div>
 
 ## Installation
 
