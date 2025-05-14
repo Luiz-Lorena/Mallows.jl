@@ -85,17 +85,3 @@ println("Sampled permutation: $sampled_permutation | Distance: $kendall_distance
 Sampled permutation: [1, 2, 3, 5, 4] | Distance: 1
 ```
 
-## Citing Mallows.jl
-
-If you find Mallows.jl useful in your work, we kindly request that you cite the
-following paper ([preprint](https://arxiv.org/abs/2206.03866)):
-
-```bibtex
-@article{Lubin2025,
-    author = {Luiz Henrique Nogueira Lorena and Luiz Antonio Nogueira Lorena and Antonio Augusto Chaves},
-    title = {Maximal Covering Location Problem with Location Preferences},
-    journal = {Mathematical Programming Computation},
-    year = {2025},
-    doi = {10.1007/s12532-023-00239-3}
-}
-```
