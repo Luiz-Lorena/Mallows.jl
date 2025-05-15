@@ -11,5 +11,4 @@ jobs:
     steps:
       - uses: julia-actions/RegisterAction@latest
         with:
-          version: ${{ github.event.inputs.version }}
           token: ${{ secrets.GITHUB_TOKEN }}
