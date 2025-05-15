@@ -1,7 +1,7 @@
 name = "Mallows"
 uuid = "2bbb2f52-5e16-43fb-828b-f0eddea539fa"
 authors = ["Luiz H N Lorena <luiz-lorena@hotmail.com> and contributors"]
-version = "1.0.17"
+version = "1.0.18"
 
 [deps]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
